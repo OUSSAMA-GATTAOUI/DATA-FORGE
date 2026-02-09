@@ -475,7 +475,7 @@ To contribute improvements to DataForge:
 
 DataForge is proprietary software. Unauthorized copying, modification, or distribution is prohibited.
 
-For licensing inquiries, contact the development team.
+For licensing inquiries, contact the APP developper.
 
 ---
 
@@ -497,6 +497,6 @@ DataForge is built upon these excellent open-source projects:
 
 **DataForge v1.0** - Professional Data Analysis Made Simple
 
-[Report Issues](../../issues) • [Request Features](../../issues) • [Documentation](GUIDE.md) • [About](ABOUT.md)
+[Report Issues](gattaouioussama@gmail.com) • [Documentation](GUIDE.md) • [About](ABOUT.md)
 
 </div>
