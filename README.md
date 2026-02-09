@@ -21,42 +21,42 @@
 
 ### Login Interface
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/main/docs/images/01-login.png" alt="Login Screen" width="600"/>
+<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192421.png" alt="Login Screen" width="600"/>
 
 *Secure authentication with a modern, professional design*
 </div>
 
 ### Main Dashboard
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/main/docs/images/02-main-interface.png" alt="Main Interface" width="800"/>
+<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192440.png" alt="Main Interface" width="800"/>
 
 *Clean workspace ready for data analysis*
 </div>
 
 ### Data View with Large Dataset
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/main/docs/images/03-data-loaded.png" alt="Data Loaded" width="800"/>
+<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192508.png" alt="Data Loaded" width="800"/>
 
 *Handle datasets with 120,000+ rows seamlessly - showing session analytics data*
 </div>
 
 ### Advanced Filtering
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/main/docs/images/04-filter-dialog.png" alt="Filter Dialog" width="800"/>
+<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192517.png" alt="Filter Dialog" width="800"/>
 
 *Powerful filtering with multiple conditions and data type options*
 </div>
 
 ### Dataset Summary & Analysis
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/main/docs/images/05-dataset-summary.png" alt="Dataset Summary" width="800"/>
+<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192527.png" alt="Dataset Summary" width="800"/>
 
 *Quick overview: 120,000 rows, 6 columns, 0 missing values*
 </div>
 
 ### Data Profiling Report
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/main/docs/images/06-profiling-report.png" alt="Data Profiling" width="800"/>
+<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192540.png" alt="Data Profiling" width="800"/>
 
 *Comprehensive column analysis with data types, missing values, and duplicate detection*
 </div>
