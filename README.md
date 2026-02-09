@@ -11,8 +11,54 @@
 [![Pandas](https://img.shields.io/badge/Data-Pandas-orange)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-Proprietary-red)]()
 
-[Quick Start](#quick-start) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation)
+[Quick Start](#quick-start) • [Features](#features) • [Screenshots](#-screenshots) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation)
 
+</div>
+
+---
+
+## 📸 Screenshots
+
+### Login Interface
+<div align="center">
+<img src="docs/images/01-login.png" alt="Login Screen" width="600"/>
+
+*Secure authentication with a modern, professional design*
+</div>
+
+### Main Dashboard
+<div align="center">
+<img src="docs/images/02-main-interface.png" alt="Main Interface" width="800"/>
+
+*Clean workspace ready for data analysis*
+</div>
+
+### Data View with Large Dataset
+<div align="center">
+<img src="docs/images/03-data-loaded.png" alt="Data Loaded" width="800"/>
+
+*Handle datasets with 120,000+ rows seamlessly - showing session analytics data*
+</div>
+
+### Advanced Filtering
+<div align="center">
+<img src="docs/images/04-filter-dialog.png" alt="Filter Dialog" width="800"/>
+
+*Powerful filtering with multiple conditions and data type options*
+</div>
+
+### Dataset Summary & Analysis
+<div align="center">
+<img src="docs/images/05-dataset-summary.png" alt="Dataset Summary" width="800"/>
+
+*Quick overview: 120,000 rows, 6 columns, 0 missing values*
+</div>
+
+### Data Profiling Report
+<div align="center">
+<img src="docs/images/06-profiling-report.png" alt="Data Profiling" width="800"/>
+
+*Comprehensive column analysis with data types, missing values, and duplicate detection*
 </div>
 
 ---
@@ -51,8 +97,8 @@ Whether you're cleaning customer datasets, analyzing sales trends, comparing dat
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
-cd "DATA FORGE"
+git clone https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE.git
+cd DATA-FORGE
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -137,7 +183,7 @@ python main.py
 
 ### Method 1: Executable (Recommended for End Users)
 
-1. Download `dataForge.exe` from the releases page
+1. Download `dataForge.exe` from the [releases page](https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE/releases)
 2. Double-click the executable
 3. Application launches immediately - no installation required
 4. Create a shortcut to the executable or pin to Start Menu
@@ -148,7 +194,7 @@ python main.py
 # Install Python 3.8 or later if needed
 
 # Navigate to project directory
-cd "DATA FORGE"
+cd DATA-FORGE
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
@@ -254,7 +300,7 @@ File > Export → Choose format and location
 ## Project Structure
 
 ```
-DATA FORGE/
+DATA-FORGE/
 ├── main.py                 # Application entry point
 ├── build.spec             # PyInstaller configuration
 ├── requirements.txt       # Python dependencies
@@ -286,6 +332,9 @@ DATA FORGE/
 │   │
 │   └── utils/
 │       └── styles.py            # Application styling
+│
+├── docs/
+│   └── images/                  # Screenshots and visuals
 │
 ├── scripts/
 │   └── create_icon.py           # Icon generation tool
@@ -432,10 +481,13 @@ Solution: Verify join configuration
 
 To contribute improvements to DataForge:
 
-1. Report issues with detailed reproduction steps
-2. Suggest features with clear use cases
-3. Submit improvements following the existing code style
-4. Test thoroughly before submitting
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Please follow the existing code style and test thoroughly before submitting.
 
 ---
 
@@ -467,7 +519,7 @@ To contribute improvements to DataForge:
 1. Check the **GUIDE.md** for detailed feature documentation
 2. Review **ABOUT.md** for project information
 3. Check the in-application Help menu
-4. Review application logs in the build directory
+4. Open an issue on GitHub for bugs or feature requests
 
 ---
 
@@ -475,7 +527,7 @@ To contribute improvements to DataForge:
 
 DataForge is proprietary software. Unauthorized copying, modification, or distribution is prohibited.
 
-For licensing inquiries, contact the APP developper.
+For licensing inquiries, contact: gattaouioussama@gmail.com
 
 ---
 
@@ -497,5 +549,8 @@ DataForge is built upon these excellent open-source projects:
 
 **DataForge v1.0** — A professional desktop data analysis platform that transforms complex datasets into actionable insights.
 
-[Contact & Issues](mailto:gattaouioussama@gmail.com) • [User Guide](GUIDE.md) • [Project Overview](ABOUT.md)
+[GitHub Repository](https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE) • [Contact & Issues](mailto:gattaouioussama@gmail.com) • [User Guide](GUIDE.md) • [Project Overview](ABOUT.md)
 
+Made with ❤️ by [Oussama Gattaoui](https://github.com/OUSSAMA-GATTAOUI)
+
+</div>
