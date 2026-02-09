@@ -493,10 +493,9 @@ DataForge is built upon these excellent open-source projects:
 
 <div align="center">
 
-### Made with ❤️ for data professionals
+### Designed for real-world data workflows
 
-**DataForge v1.0** - Professional Data Analysis Made Simple
+**DataForge v1.0** — A professional desktop data analysis platform that transforms complex datasets into actionable insights.
 
-[Report Issues](gattaouioussama@gmail.com) • [Documentation](GUIDE.md) • [About](ABOUT.md)
+[Contact & Issues](mailto:gattaouioussama@gmail.com) • [User Guide](GUIDE.md) • [Project Overview](ABOUT.md)
 
-</div>
