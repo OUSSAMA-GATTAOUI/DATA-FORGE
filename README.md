@@ -21,7 +21,7 @@
 
 ### Login Interface
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192421.png" alt="Login Screen" width="600"/>
+<img src="https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE/blob/main/docs/images/Screenshot%202026-02-09%20192421.png" alt="Login Screen" width="600"/>
 
 *Secure authentication with a modern, professional design*
 </div>
