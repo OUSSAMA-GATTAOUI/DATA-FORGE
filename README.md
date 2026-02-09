@@ -28,35 +28,35 @@
 
 ### Main Dashboard
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192440.png" alt="Main Interface" width="800"/>
+<img src="https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE/blob/main/docs/images/Screenshot%202026-02-09%20192440.png" alt="Main Interface" width="800"/>
 
 *Clean workspace ready for data analysis*
 </div>
 
 ### Data View with Large Dataset
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192508.png" alt="Data Loaded" width="800"/>
+<img src="https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE/blob/main/docs/images/Screenshot%202026-02-09%20192508.png" alt="Data Loaded" width="800"/>
 
 *Handle datasets with 120,000+ rows seamlessly - showing session analytics data*
 </div>
 
 ### Advanced Filtering
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192517.png" alt="Filter Dialog" width="800"/>
+<img src="https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE/blob/main/docs/images/Screenshot%202026-02-09%20192517.png" alt="Filter Dialog" width="800"/>
 
 *Powerful filtering with multiple conditions and data type options*
 </div>
 
 ### Dataset Summary & Analysis
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192527.png" alt="Dataset Summary" width="800"/>
+<img src="https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE/blob/main/docs/images/Screenshot%202026-02-09%20192527.png" alt="Dataset Summary" width="800"/>
 
 *Quick overview: 120,000 rows, 6 columns, 0 missing values*
 </div>
 
 ### Data Profiling Report
 <div align="center">
-<img src="https://raw.githubusercontent.com/OUSSAMA-GATTAOUI/DATA-FORGE/tree/main/docs/images/Screenshot 2026-02-09 192540.png" alt="Data Profiling" width="800"/>
+<img src="https://github.com/OUSSAMA-GATTAOUI/DATA-FORGE/blob/main/docs/images/Screenshot%202026-02-09%20192540.png" alt="Data Profiling" width="800"/>
 
 *Comprehensive column analysis with data types, missing values, and duplicate detection*
 </div>
